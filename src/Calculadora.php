@@ -15,7 +15,7 @@ class Calculadora {
     }
 
     public function dividir($a, $b) {
-        // TODO: Implementar en el taller
-        return 0;
+    return $a / $b;
+
     }
 }
