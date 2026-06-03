@@ -21,5 +21,7 @@ class CalculadoraTest extends TestCase {
         $this->assertEquals(12, $this->calc->multiplicar(4, 3));
     }
 
-    
+    public function testDivision() {
+        $this->assertEquals(2, $this->calc->dividir(6, 3));
+    }
 }
