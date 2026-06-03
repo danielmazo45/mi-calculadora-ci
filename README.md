@@ -1,12 +1,11 @@
 # Calculadora CI - PHP
 
-![PHP CI](https://github.com/TU_USUARIO/TU_REPOSITORIO/actions/workflows/php-ci.yml/badge.svg)
+![PHP CI](https://github.com/danielmazo45/mi-calculadora-ci)
 
 Proyecto de calculadora con pruebas unitarias automáticas usando PHPUnit e integración continua con GitHub Actions.
 
 ## Integrantes
-- **Nombre Completo 1**
-- **Nombre Completo 2** *(si aplica)*
+- **Daniel Rodriguez mazo**
 
 ## Repositorio
 https://github.com/TU_USUARIO/TU_REPOSITORIO
